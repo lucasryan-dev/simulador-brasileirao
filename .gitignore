@@ -45,3 +45,4 @@ target/
 out/
 *.log
 Thumbs.db
+.env
